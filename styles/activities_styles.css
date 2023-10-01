@@ -1,0 +1,102 @@
+@charset "utf-8";
+/*
+    CSS Styles
+    Author: Villezcas, Elsy 
+    Date: 09/30/23
+
+    Filename: activities_styles.css
+*/
+
+@font-face{
+    font-family: Comfortaa;
+    src: url('../fonts/Comfortaa-VariableFont_wght.ttf') format('truetype');
+}
+
+/* HTML and Body Styles*/
+    html{
+        background-color: #4e4eff;
+    }
+    body {
+        color: black;
+        background-color: #ffa74e;
+        font-size: 0.9em;
+        font-family: Comfortaa, Arial, Helvetica, sans-serif;
+        margin: 0 auto;
+	    width: 100%;
+	    max-width: 1020px;
+	    min-width: 640px;
+    }
+  
+/* Header & Navigation*/
+    header {
+        background-color: #ffff4e;
+    }
+    nav a:link, nav a:visited {
+        color:#4e4eff;
+        text-decoration: none;
+    }
+    nav a:hover, nav a:active{
+        color:#ff4eff;
+        text-decoration: underline;
+    }
+    nav ul{
+        list-style-type: none;
+    }
+    nav ul li{
+        display: inline;
+        text-align: center;
+    }
+    nav ul li a {
+        padding: 10px;
+        display: inline-block;
+    }
+    header h1{
+        font-size: 2.8em;
+        text-align: center;
+        color:#4e4eff;
+    }
+    header img {
+        width: 1020px;
+        height: 300px;
+    }
+
+/* Headings*/
+    section h1{
+        color:#4e4eff;
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+    section h2{
+        color:#4e4eff;
+        font-weight: normal;
+        font-size: 1.5em;
+    }
+    section img {
+        width: 200px;
+        height: 200px;
+    }
+/* Sections*/
+
+/* List*/
+    ul {
+        list-style-type: square;
+        list-style-position: inside;
+    }
+    ol ol{
+        list-style-type: lower-alpha;
+    }
+    dt{
+        font-weight: bold;
+    }
+    dl {
+        line-height: 1.5em;
+    }
+/* Footers*/    
+footer {
+    background-color: #ffff4e;
+    text-align: center;
+    color:#4e4eff;
+    font: small-caps;
+    font-size: .8em;
+    padding: 1px;
+}

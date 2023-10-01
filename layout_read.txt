@@ -1,0 +1,95 @@
+Home
+
+Home
+Learning Activities
+Try-It-Out Activities
+Challenge Activities
+
+These websites provide my completed activities through-out the semester. Below I have provided the definitions of what each page will provide.
+Learning Activites
+    They are activites, where I learn the basic terminology, and how to apply the code by following the instructor.
+Try-It-Out Activities
+    They are activities, where I apply the code by reading from the instructions.
+Challenge Activities.
+    They are activities, where I create my own website based on the rules from the challenge, and applying what I have learned from the past activites.
+
+Copyright 2023 Elsy Margarita Villezcas-Leal, All Rights Reserved.
+----------------------------------------------------------------------------------------
+Learing Activities
+
+Home
+Learning Activities
+Try-It-Out Activities
+Challenge Activities
+
+Learn About HTML: Curbside Thai
+link: https://evillezl.github.io/curbside_thai.github.io/ 
+Course: CS 2350
+In this activity we learned, the basic terminology of HTML in basic structure.
+New Skills:
+head
+body
+headings
+paragraphs
+address
+blockquote
+aside
+special characters
+images
+
+Learn About CSS: Tri and Succeed Sports
+link: https://evillezl.github.io/tri_and_succeed_sports.github.io/
+Course: CS 2350
+In this activity we learned, the basic terminology of CSS about style rules
+New Skills:
+font
+color
+id or class selector
+padding
+margins
+hyperlinks
+pseudo-elements
+
+Copyright 2023 Elsy Margarita Villezcas-Leal, All Rights Reserved.
+----------------------------------------------------------------------------------------
+Try-it-Out Activities
+
+Home
+Learning Activities
+Try-It-Out Activities
+Challenge Activities
+
+Try-it-Out: Mobile Panini
+link: https://evillezl.github.io/mobile_panini.github.io./ 
+Course: CS 2350
+In this activity, we applied the prepared written text, into the corresponding HTML document.
+
+Try-it-Out: Mountian Wheels
+link: https://evillezl.github.io/mountain_wheels.github.io/
+Course: CS 2350
+In this activity, we added CSS styles in the document 'mw_layout.css'.
+
+Copyright 2023 Elsy Margarita Villezcas-Leal, All Rights Reserved.
+----------------------------------------------------------------------------------------
+Challenge Activities
+
+Home
+Learning Activities
+Try-It-Out Activities
+Challenge Activities
+
+Personal Website
+link: https://evillezl.github.io/ 
+Course: WEB 1400
+In this activity, we have applied what I have learned so far from HTML and CSS and created my own personal website.
+What was challenging?
+    The challenging part was CSS. The upside, was that the website was based on my resume. So I already had the content available.
+    However, since, this was my first challenge. I didn't know what rules apply to what page, to make it readable. Especially, since my home page is the first impression of me. 
+    I decided to go with the colors pink and green, based on colors of the red rocks that we have in Utah. 
+Ivan's Ice-Scream and Snowies
+link: https://evillezl.github.io/IvansIcecreamandSnowies.github.io/
+Course: WEB 1400
+In this activity, we have applied what I have learned so far from HTML and CSS and created a website for the resturant.
+What was challenging?
+    The challenging part was color matching the website. It was difficult, because I wanted it to be the similar colors of the resturant and include Ice-Cream graphics.
+Copyright 2023 Elsy Margarita Villezcas-Leal, All Rights Reserved.
